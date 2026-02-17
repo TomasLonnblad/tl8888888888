@@ -1,0 +1,31 @@
+{
+  "stories": [],
+  "versions": [],
+  "backups": [
+    {
+      "timestamp": 1768485527017,
+      "localPath": "...\\Documents\\Babel\\babel-2026-01-15.backup.zip",
+      "cloudProviders": [],
+      "id": "0892875c-8052-40e6-b2ee-ad6e7c2c690c"
+    },
+    {
+      "timestamp": 1769171135613,
+      "localPath": "...\\Documents\\Babel\\babel-2026-01-23.backup.zip",
+      "cloudProviders": [],
+      "id": "d114bfc4-f14b-46f3-9056-a75c61251e58"
+    },
+    {
+      "timestamp": 1770128889011,
+      "localPath": "...\\Documents\\Babel\\babel-2026-02-03.backup.zip",
+      "cloudProviders": [],
+      "id": "9dd9f368-5f89-4865-9b77-e1c19b3fe5e4"
+    },
+    {
+      "timestamp": 1770796065173,
+      "localPath": "...\\Documents\\Babel\\babel-2026-02-11.backup.zip",
+      "cloudProviders": [],
+      "id": "f699e25d-f0f9-41db-969e-bb863601be47"
+    }
+  ],
+  "activity": []
+}
